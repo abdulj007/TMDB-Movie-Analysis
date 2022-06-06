@@ -15,13 +15,15 @@ We answer the question - what steps can a production movie take to make a profit
      -  Used a scatterplot to visualize the popularity of genres across several years (1960-2015)
 
  b) Top 10 Most profitable movies and least profitable movies
+ 
      - Created two datasets called dfTop10 and dfBottom10 respectively from the original movie dataset of just two columns (“original_title”,”net_profit”). 
-     - orted dfTop10 by net_profit in descending order and limited it to 10 rows. This 
-gave the Top 10 most profitable movies 
-     - Sorted dfBottom10 by net_profit in ascending order and limited it to 10 rows. This 
-gave the Top 10 least profitable movies
+     
+     - Sorted dfTop10 by net_profit in descending order and limited it to 10 rows. This gave the Top 10 most profitable movies 
+     
+     - Sorted dfBottom10 by net_profit in ascending order and limited it to 10 rows. This gave the Top 10 least profitable movies
 
  c)  Properties associated with high revenue movies:
+ 
     - Calculated the mean revenue of the entire dataset. Then filtered the dataset to 
 movies whose revenue that are higher than the revenue mean. Called this new 
 dataset – dfHighProfit.
