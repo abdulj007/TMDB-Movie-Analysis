@@ -16,7 +16,7 @@ We answer the question - what steps can a production movie take to make a profit
      -  Grouped the dataset by year and found the highest genre by popularity for that year
      
      -  Used a scatterplot to visualize the popularity of genres across several years (1960-2015)
-     ![image](https://user-images.githubusercontent.com/66950832/172140834-6a134a8f-ba93-48ef-b017-0010b1a9697f.png)
+     <img>![image](https://user-images.githubusercontent.com/66950832/172140834-6a134a8f-ba93-48ef-b017-0010b1a9697f.png)
 
 
  b) Top 10 Most profitable movies and least profitable movies
