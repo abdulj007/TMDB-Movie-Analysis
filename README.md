@@ -2,7 +2,9 @@
 We answer the question - what steps can a production movie take to make a profitable movie?
 ## Questions posed:
  a The most profitable movie genre year by year
+ 
  b Top 10 Most profitable movies and least profitable movies
+ 
  c Properties associated with high revenue movies
  d Top 20 Highest-grossing Actors
 
