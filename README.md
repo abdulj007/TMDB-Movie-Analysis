@@ -6,6 +6,7 @@ We answer the question - what steps can a production movie take to make a profit
  b Top 10 Most profitable movies and least profitable movies
  
  c Properties associated with high revenue movies
+ 
  d Top 20 Highest-grossing Actors
 
 ## Steps taken to answer each question:
