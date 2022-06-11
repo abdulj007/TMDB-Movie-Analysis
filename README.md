@@ -8,7 +8,7 @@ We answer the question - what steps can a production movie take to make a profit
  c Properties associated with high revenue movies
  d Top 20 Highest-grossing Actors
 
-## How each question was answered:
+## Steps taken to answer each question:
  a) The most profitable movie genre per year:
  
      -  Split the genre column and made each split genre a separate row
